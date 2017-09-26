@@ -27,7 +27,7 @@ spaces around the ``{{}}`` or the replacements will not work.
 Loading Templates from a File
 -----------------------------
 
-When adding the PaginatorHelper in your controller, you can define the
+When adding the PaginatorHelper in your view, you can define the
 'templates' setting to define a template file to load. This allows you to
 customize multiple templates and keep your code DRY::
 
